@@ -1,1 +1,2 @@
-This is new data file
+This is new data file in File data
+Avatar
